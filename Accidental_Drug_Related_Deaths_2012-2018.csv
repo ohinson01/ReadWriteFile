@@ -1,0 +1,1777 @@
+ID,Date,DateType,Age,Sex,Race,ResidenceCity,ResidenceCounty,ResidenceState,DeathCity,DeathCounty,Location,LocationifOther,DescriptionofInjury,InjuryPlace,InjuryCity,InjuryCounty,InjuryState,COD,OtherSignifican,Heroin,Cocaine,Fentanyl,FentanylAnalogue,Oxycodone,Oxymorphone,Ethanol,Hydrocodone,Benzodiazepine,Methadone,Amphet,Tramad,Morphine_NotHeroin,Hydromorphone,Other,OpiateNOS,AnyOpioid,MannerofDeath,DeathCityGeo,ResidenceCityGeo,InjuryCityGeo
+14-0273,6/28/2014 0:00,DateReported,,,,,,,,,,,substance,,,,,"Acute fent, hydrocod, benzodiazepine",,,,Y,,,,,Y,Y,,,,,,,,,Accident,"CT
+(41.575155, -72.738288)","CT
+(41.575155, -72.738288)","CT
+(41.575155, -72.738288)"
+13-0102,3/21/2013 0:00,DateofDeath,48,Male,Black,NORWALK,,,NORWALK,FAIRFIELD,Hospital,,,,,,,Cocaine Intoxication,,,Y,,,,,,,,,,,,,,,,Accident,"Norwalk, CT
+(41.11805, -73.412906)","NORWALK, CT
+(41.11805, -73.412906)","CT
+(41.575155, -72.738288)"
+16-0165,3/13/2016 0:00,DateofDeath,30,Female,White,SANDY HOOK,FAIRFIELD,CT,DANBURY,,Hospital,,Substance Abuse,Unknown,UNKNOWN,,,Acute Heroin and Cocaine Intoxication,,Y,Y,,,,,,,,,,,,,,,Y,Accident,"Danbury, CT
+(41.393666, -73.451539)","SANDY HOOK, CT
+(41.419998, -73.282501)",
+16-0208,3/31/2016 0:00,DateofDeath,23,Male,White,RYE,WESTCHESTER,NY,GREENWICH,,Hospital,,substance abuse,Residence,RYE,,,Acute Fentanyl and Morphine Intoxication,,Y,,Y,,,,,,,,,,,,,,Y,Accident,"Greenwich, CT
+(41.026526, -73.628549)",,
+13-0052,2/13/2013 0:00,DateofDeath,22,Male,"Asian, Other",FLUSHING,QUEENS,,GREENWICH,FAIRFIELD,Hospital,,Transdermal Absorption,Other,,,,Fentanyl Intoxication,,,,Y,,,,,,,,,,,,,,,Accident,"Greenwich, CT
+(41.026526, -73.628549)",,"CT
+(41.575155, -72.738288)"
+14-0277,6/29/2014 0:00,DateofDeath,23,Male,White,BRISTOL,,,BRISTOL,HARTFORD,Residence,,Inhalation,Residence,,,,Heroin Intoxication,,Y,,,,,,,,,,,,,,,,,Accident,"BRISTOL, CT
+(41.673037, -72.945791)","BRISTOL, CT
+(41.673037, -72.945791)","CT
+(41.575155, -72.738288)"
+12-0205,8/12/2012 0:00,DateofDeath,21,Female,White,WEST HARTFORD,HARTFORD,,WEST HARTFORD,HARTFORD,Residence,,Used Heroin,Residence,,,,Heroin Toxicity,,Y,,,,,,,,,,,,,,,,,Accident,"WEST HARTFORD, CT
+(41.762008, -72.741807)","WEST HARTFORD, CT
+(41.762008, -72.741807)","CT
+(41.575155, -72.738288)"
+13-0404,11/10/2013 0:00,DateofDeath,40,Female,White,HAMDEN,NEW HAVEN,,NEW HAVEN,NEW HAVEN,Hospital,,,,,,,Complications of Cocaine Intoxication,,,Y,,,,,,,,,,,,,,,,Accident,"New Haven, CT
+(41.308252, -72.924161)","HAMDEN, CT
+(41.382918, -72.907743)","CT
+(41.575155, -72.738288)"
+12-0107,4/25/2012 0:00,DateofDeath,40,Male,White,EAST HARTFORD,HARTFORD,,EAST HARTFORD,HARTFORD,Residence,,Used Heroin,Residence,,,,Heroin Toxicity,,Y,,,,,,,,,,,,,,,,,Accident,"EAST HARTFORD, CT
+(41.769319, -72.643785)","EAST HARTFORD, CT
+(41.769319, -72.643785)","CT
+(41.575155, -72.738288)"
+13-0161,5/15/2013 0:00,DateofDeath,50,Male,White,MONTVILLE,NEW LONDON,,MONTVILLE,NEW LONDON,Residence,,Ingestion,Residence,,,,Oxycodone Intoxication,,,,,,Y,,,,,,,,,,,,,Accident,"MONTVILLE, CT
+(41.45303, -72.136336)","MONTVILLE, CT
+(41.45303, -72.136336)","CT
+(41.575155, -72.738288)"
+12-0218,8/23/2012 0:00,DateofDeath,26,Female,"Hispanic, White",,,,STRATFORD,FAIRFIELD,Other,Honey Spot,Injection/Inhalation,Hotel or Motel,,,,Multiple Drug Toxicity,,Y,Y,,,,,,,,,,,,,,,,Accident,"STRATFORD, CT
+(41.200888, -73.131323)","CT
+(41.575155, -72.738288)","CT
+(41.575155, -72.738288)"
+15-0334,7/5/2015 0:00,DateReported,49,Female,White,,,,NEW HAVEN,NEW HAVEN,Hospital,,,Unknown,,,,Acute intoxication from the combined effects of heroin and methadone,,Y,,,,,,,,,Y,,,,,,,Y,Accident,"New Haven, CT
+(41.308252, -72.924161)","CT
+(41.575155, -72.738288)","CT
+(41.575155, -72.738288)"
+15-0728,,,,,,,,,,,,,,Unknown,,,,Ruptured Aneurysm of right Iliac Artery with Hemoperitoneum,Acute Cocaine,,Y,,,,,,,,,,,,,,,,Accident,"CT
+(41.575155, -72.738288)","CT
+(41.575155, -72.738288)","CT
+(41.575155, -72.738288)"
+15-0232,5/14/2015 0:00,DateReported,50,Male,White,DANBURY,FAIRFIELD,CT,DANBURY,FAIRFIELD,Residence,,,Residence,,,,Heroin Intoxication,,Y,,,,,,,,,,,,,,,,Y,Accident,"DANBURY, CT
+(41.393666, -73.451539)","DANBURY, CT
+(41.393666, -73.451539)","CT
+(41.575155, -72.738288)"
+16-0028,1/13/2016 0:00,DateofDeath,29,Male,Black,NEW HAVEN,NEW HAVEN,CT,NEW HAVEN,,Residence,,Substance Abuse,Residence,NEW HAVEN,,,"Acute Heroin Intoxication in a Person Taking Clonazepam, Amphetamine, Citalopram, and Aripiprazole",,Y,,,,,,,,Y,,Y,,,,,,Y,Accident,"NEW HAVEN, CT
+(41.308252, -72.924161)","NEW HAVEN, CT
+(41.308252, -72.924161)","NEW HAVEN, CT
+(41.308252, -72.924161)"
+13-0279,8/19/2013 0:00,DateofDeath,45,Male,White,HARTFORD,HARTFORD,,HARTFORD,HARTFORD,Residence,,Ingestion,Residence,,,,Methadone Intoxication,,,,,,,,,,,Y,,,,,,,,Accident,"HARTFORD, CT
+(41.765775, -72.673356)","HARTFORD, CT
+(41.765775, -72.673356)","CT
+(41.575155, -72.738288)"
+14-0042,1/29/2014 0:00,DateofDeath,29,Female,White,CANTERBURY,,,HARTFORD,,Hospital,,Substance Abuse,Unknown,,,,"Acute intoxication due to the combined effects of heroin, Citalopram and Clonazepam",,Y,,,,,,,,Y,,,,,,,,,Accident,"Hartford, CT
+(41.765775, -72.673356)","CANTERBURY, CT
+(41.698351, -71.971118)","CT
+(41.575155, -72.738288)"
+12-0060,3/2/2012 0:00,DateofDeath,42,Male,White,WALLINGFORD,NEW HAVEN,,WALLINGFORD,NEW HAVEN,Residence,,Ingestion,Residence,,,,Ethanol and Oxymorphone Toxicity,,,,,,,Y,Y,,,,,,,,,,,Accident,"WALLINGFORD, CT
+(41.454408, -72.818414)","WALLINGFORD, CT
+(41.454408, -72.818414)","CT
+(41.575155, -72.738288)"
+16-0065,1/30/2016 0:00,DateofDeath,54,Male,White,MIDDLETOWN,MIDDLESEX,CT,MIDDLETOWN,,Residence,,Substance Abuse Including Injection of Heroin,Residence,MIDDLETOWN,,,"Acute Heroin Intoxication While Using Alcohol, Trazodone, Bupropion and Abilify",,Y,,,,,,Y,,,,,,,,,,Y,Accident,"MIDDLETOWN, CT
+(41.544654, -72.651713)","MIDDLETOWN, CT
+(41.544654, -72.651713)","MIDDLETOWN, CT
+(41.544654, -72.651713)"
+16-0889,12/20/2016 0:00,DateofDeath,32,Male,White,WINDHAM,WINDHAM,CT,WINDHAM,,Residence,,,,WINDHAM,,,"Acute Intoxication due to the Combined Effects of Fentanyl, Heroin, Clonazepam and Nordiazepam",,Y,,Y,,,,,,Y,,,,,,,,Y,Accident,"Windham, CT
+(41.699744, -72.157703)","WINDHAM, CT
+(41.699744, -72.157703)","WINDHAM, CT
+(41.699744, -72.157703)"
+14-0474,11/14/2014 0:00,DateofDeath,47,Male,White,BRIDGEPORT,,,BRIDGEPORT,FAIRFIELD,Residence,,substance abuse,Residence,,,,Acute intoxication due to the combined effects of heroin and alcohol,,Y,,,,,,Y,,,,,,,,,,,Accident,"BRIDGEPORT, CT
+(41.179195, -73.189476)","BRIDGEPORT, CT
+(41.179195, -73.189476)","CT
+(41.575155, -72.738288)"
+15-0263,6/2/2015 0:00,DateReported,39,Female,White,ANSONIA,NEW HAVEN,CT,DERBY,NEW HAVEN,Hospital,,,Residence,ANSONIA,NEW HAVEN,CT,Intoxication due to the Combined Effects of Methadone and Diphenhydramine,,,,,,,,,,,Y,,,,,,,Y,Accident,"Derby, CT
+(41.322959, -73.089594)","ANSONIA, CT
+(41.34198, -73.078296)","ANSONIA, CT
+(41.34198, -73.078296)"
+14-0188,5/2/2014 0:00,DateofDeath,27,Male,,HAMDEN,,,NEW HAVEN,NEW HAVEN,Hospital,,Ingestion,Residence,,,,"Intoxication due to the combined effects of Oxycodone, Oxymorphone, Clonazepam, and Alprazolam",,,,,,Y,Y,,,Y,,,,,,,,,Accident,"New Haven, CT
+(41.308252, -72.924161)","HAMDEN, CT
+(41.382918, -72.907743)","CT
+(41.575155, -72.738288)"
+16-0688,10/7/2016 0:00,DateofDeath,34,Male,White,COS COB,FAIRFIELD,CT,COS COB,,Residence,,Substance Abuse,Residence,COS COB,,,Acute Intoxication due to the Combined Effects of Fentanyl and Heroin,,Y,,Y,,,,,,,,,,,,,,Y,Accident,"COS COB, CT
+(41.037899, -73.599776)","COS COB, CT
+(41.037899, -73.599776)","COS COB, CT
+(41.037899, -73.599776)"
+16-0495,7/16/2016 0:00,DateofDeath,27,Female,White,STRATFORD,FAIRFIELD,CT,STRATFORD,,Residence,,Substance Abuse,Residence,STRATFORD,,,"Acute Intoxication due to the Combined Effects of Acetyl Fentanyl, Fentanyl, and Heroin",,Y,,Y,,,,,,,,,,,,,,Y,Accident,"STRATFORD, CT
+(41.200888, -73.131323)","STRATFORD, CT
+(41.200888, -73.131323)","STRATFORD, CT
+(41.200888, -73.131323)"
+17-0817,10/13/2017 0:00,DateReported,25,Male,White,MERIDEN,NEW HAVEN,CT,MERIDEN,NEW HAVEN,Hospital,,Substance abuse,Residence,MERIDEN,NEW HAVEN,CT,"ACUTE COMBINED HEROIN, FENTANYL, ACETYL FENTANYL AND COCAINE TOXICITIES",,Y,Y,Y,Y,,,,,,,,,,,,,,Accident,"Meriden, CT
+(41.537589, -72.8011)","MERIDEN, CT
+(41.537589, -72.8011)","MERIDEN, CT
+(41.537589, -72.8011)"
+18-0095,2/10/2018 0:00,DateReported,51,Male,White,HARTFORD,HARTFORD,CT,HARTFORD,HARTFORD,Hospital,,Drug Use,"Other, Public Buildings",HARTFORD,HARTFORD,,"Acute IntoxicationCombined Effects of Ethanol, Alprazolam, Topiramate, Fluoxetine, and Fentanyl",,,,Y,,,,Y,,Y,,,,,,,,Y,Accident,"Hartford, CT
+(41.765775, -72.673356)","HARTFORD, CT
+(41.765775, -72.673356)","HARTFORD, CT
+(41.765775, -72.673356)"
+15-0182,4/12/2015 0:00,DateReported,23,Male,White,DANBURY,FAIRFIELD,CT,DANBURY,FAIRFIELD,Other,,,Other,,,,Heroin and Ethanol Intoxication,,Y,,,,,,Y,,,,,,,,,,Y,Accident,"DANBURY, CT
+(41.393666, -73.451539)","DANBURY, CT
+(41.393666, -73.451539)","CT
+(41.575155, -72.738288)"
+15-0098,2/27/2015 0:00,DateReported,35,Male,White,NEW BRITAIN,HARTFORD,CT,HARTFORD,HARTFORD,Hospital,,,Restaurant,,,,Acute Fentanyl Toxicity,,,,Y,,,,,,,,,,,,,,Y,Accident,"Hartford, CT
+(41.765775, -72.673356)","NEW BRITAIN, CT
+(41.667528, -72.783437)","CT
+(41.575155, -72.738288)"
+18-0285,4/11/2018 0:00,DateReported,25,Male,"Hispanic, White",HARRISBURG,DAUPHIN,PA,NEW HAVEN,NEW HAVEN,Nursing Home,,Substance Abuse,Unknown,,,,Complications of Anoxic-Ischemic EncephalopathyAcute Opioid Intoxication,,,,,,,,,,,,,,,,,Y,Y,Accident,"NEW HAVEN, CT
+(41.308252, -72.924161)","HARRISBURG, CT
+(41.617199, -73.284203)","CT
+(41.575155, -72.738288)"
+16-0316,5/10/2016 0:00,DateofDeath,43,Male,White,MELROSE,MIDDLESEX,MA,ENFIELD,,Other,Motel 6,substance abuse,Hotel or Motel,ENFIELD,,,"Acute Heroin, Fentanyl and Cocaine Toxicities Associated With Alprazolam and Alcohol Use",,Y,Y,Y,,,,Y,,Y,,,,,,,,Y,Accident,"ENFIELD, CT
+(41.976501, -72.591985)","MELROSE, CT
+(41.9375, -72.521698)","ENFIELD, CT
+(41.976501, -72.591985)"
+13-0441,12/4/2013 0:00,DateofDeath,48,Male,White,NORTH SALEM,WESTCHESTER,,NORWALK,FAIRFIELD,Hospital,,substance abuse,Unknown,,,,"Acute intoxication due to the combined effects of heroin, Alprazolam and ethanol",,Y,,,,,,Y,,Y,,,,,,,,,Accident,"Norwalk, CT
+(41.11805, -73.412906)","NORTH SALEM, CT
+(41.8978, -72.893097)","CT
+(41.575155, -72.738288)"
+18-0468,6/18/2018 0:00,DateReported,40,Female,White,TORRINGTON,LITCHFIELD,CT,TORRINGTON,LITCHFIELD,Residence,,Substance abuse,Residence,TORRINGTON,LITCHFIELD,,"ACUTE COMBINED FENTANYL, HEROIN AND ALCOHOL TOXICITY",RECENT COCAINE USE,Y,Y,Y,,,,Y,,,,,,,,,,Y,Accident,"Torrington, CT
+(41.812186, -73.101552)","TORRINGTON, CT
+(41.812186, -73.101552)","TORRINGTON, CT
+(41.812186, -73.101552)"
+18-0355,5/9/2018 0:00,DateReported,49,Female,White,SOUTHBURY,NEW HAVEN,CT,WATERBURY,NEW HAVEN,Hospital,,Drug abuse while traveling in vehicle,In Vehicle,,,,"Multidrug Toxicity Including Ethanol, Cocaine, and Sertraline",,,Y,,,,,Y,,,,,,,,,,,Accident,"Waterbury, CT
+(41.554261, -73.043069)","SOUTHBURY, CT
+(41.466592, -73.203497)","CT
+(41.575155, -72.738288)"
+17-0907,11/16/2017 0:00,DateReported,40,Male,Black,NEW HAVEN,NEW HAVEN,CT,NEW HAVEN,NEW HAVEN,Hospital,,Substance Abuse,Residence,NEW HAVEN,NEW HAVEN,CT,"Acute Intoxication From the Combined Effects of Cocaine, Fentanyl, Heroin, and Alcohol",,Y,Y,Y,,,,Y,,,,,,,,,,,Accident,"New Haven, CT
+(41.308252, -72.924161)","NEW HAVEN, CT
+(41.308252, -72.924161)","NEW HAVEN, CT
+(41.308252, -72.924161)"
+15-0475,9/14/2015 0:00,DateReported,51,Male,White,MIDDLETOWN,MIDDLESEX,CT,MIDDLETOWN,MIDDLESEX,Residence,,,Residence,MIDDLETOWN,MIDDLESEX,CT,"Acute Intoxication ethanol, hydrocodone, and benzodiazepines",,,,,,,,Y,Y,Y,,,,,,,,Y,Accident,"MIDDLETOWN, CT
+(41.544654, -72.651713)","MIDDLETOWN, CT
+(41.544654, -72.651713)","MIDDLETOWN, CT
+(41.544654, -72.651713)"
+14-0490,11/22/2014 0:00,DateofDeath,25,Male,White,DARIEN,,,NORWALK,FAIRFIELD,Hospital,,Drug Use,Residence,,,,Intoxication due to the combined effects of Ethanol and Heroin,,Y,,,,,,Y,,,,,,,,,,,Accident,"Norwalk, CT
+(41.11805, -73.412906)","DARIEN, CT
+(41.080002, -73.467371)","CT
+(41.575155, -72.738288)"
+15-0314,6/28/2015 0:00,DateReported,55,Female,White,SAUGUS,ESSEX,MA,MASHANTUCKET,NEW LONDON,Other,,,Unknown,,,,"ethanol, clonazepam",,,,,,,,,,,,,,,,,,,Accident,"MASHANTUCKET, CT
+(41.471499, -71.956392)",,"CT
+(41.575155, -72.738288)"
+15-0687,12/7/2015 0:00,DateReported,56,Male,Black,WATERBURY,NEW HAVEN,CT,WATERBURY,NEW HAVEN,Hospital,,,Residence,WATERBURY,NEW HAVEN,CT,"acute Cocaine, CV disease",,,Y,,,,,,,,,,,,,,,,accident,"Waterbury, CT
+(41.554261, -73.043069)","WATERBURY, CT
+(41.554261, -73.043069)","WATERBURY, CT
+(41.554261, -73.043069)"
+17-0888,11/11/2017 0:00,DateReported,39,Male,White,MERIDEN,NEW HAVEN,CT,MERIDEN,NEW HAVEN,Other,Hotel/Motel,Substance abuse,Hotel or Motel,MERIDEN,NEW HAVEN,CT,"Acute Intoxication due to the Combined Effects of Fluorobutyryl Fentanyl, Heroin, and Ethanol",,Y,,Y,Y,,,Y,,,,,,,,,,,Accident,"Meriden, CT
+(41.537589, -72.8011)","MERIDEN, CT
+(41.537589, -72.8011)","MERIDEN, CT
+(41.537589, -72.8011)"
+15-0007,1/4/2015 0:00,DateReported,28,Male,White,MILFORD,NEW HAVEN,CT,MILFORD,NEW HAVEN,Residence,,,Residence,,,,"Acute intoxication due to the combined effects of heroin, Clonazepam and Hydrocodone",,Y,,,,,,,Y,Y,,,,,,,,Y,Accident,"MILFORD, CT
+(41.224276, -73.057564)","MILFORD, CT
+(41.224276, -73.057564)","CT
+(41.575155, -72.738288)"
+13-0263,8/6/2013 0:00,DateofDeath,35,Female,White,BRISTOL,HARTFORD,,BRISTOL,HARTFORD,Residence,,Substance Abuse,Residence,,,,Acute Cocaine and Morphine Toxicities,,Y,Y,,,,,,,,,,,,,,,,Accident,"BRISTOL, CT
+(41.673037, -72.945791)","BRISTOL, CT
+(41.673037, -72.945791)","CT
+(41.575155, -72.738288)"
+18-0122,2/21/2018 0:00,DateReported,34,Male,White,GUILFORD,NEW HAVEN,CT,NEW HAVEN,NEW HAVEN,Hospital,,Toxic effects of fentanyl,Residence,GUILFORD,NEW HAVEN,,Fentanyl Toxicity,,,,Y,,,,,,,,,,,,,,Y,Accident,"New Haven, CT
+(41.308252, -72.924161)","GUILFORD, CT
+(41.281228, -72.681651)","GUILFORD, CT
+(41.281228, -72.681651)"
+16-0477,7/11/2016 0:00,DateofDeath,23,Male,White,SOMERS,TOLLAND,CT,SOMERS,,Residence,,Substance Abuse,Residence,SOMERS,,,Acute Fentanyl and Heroin Intoxication,,Y,,Y,,,,,,,,,,,,,,Y,Accident,"SOMERS, CT
+(41.985524, -72.447503)","SOMERS, CT
+(41.985524, -72.447503)","SOMERS, CT
+(41.985524, -72.447503)"
+18-0001,1/1/2018 0:00,DateReported,39,Male,White,WALLINGFORD,NEW HAVEN,CT,MERIDEN,NEW HAVEN,Hospital,,Took medications and alcohol,Residence,WALLINGFORD,NEW HAVEN,,"Acute Intoxication due to the Combined Effects of Methadone, Buprenorphine, and Ethanol",,,,,,,,Y,,,Y,,,,,Bupren,,Y,Accident,"Meriden, CT
+(41.537589, -72.8011)","WALLINGFORD, CT
+(41.454408, -72.818414)","WALLINGFORD, CT
+(41.454408, -72.818414)"
+14-0176,4/22/2014 0:00,DateofDeath,49,Female,"Hispanic, White",STAMFORD,,,STAMFORD,,Residence,,Substance Abuse,Residence,,,,"Combined Cocaine, Methadone and Alprazolam Toxicities",,,Y,,,,,,,Y,Y,,,,,,,,Accident,"Stamford, CT
+(41.051924, -73.539475)","STAMFORD, CT
+(41.051924, -73.539475)","CT
+(41.575155, -72.738288)"
+15-0066,2/7/2015 0:00,DateReported,49,Male,White,NEW BRITAIN,HARTFORD,CT,NEW BRITAIN,HARTFORD,Hospital,,,Residence,,,,"Intoxication due to the combined effects of Clonazepam, Cocaine, Venlafaxine, and Fentanyl",,,Y,Y,,,,,,Y,,,,,,,,Y,Accident,"New Britain, CT
+(41.667528, -72.783437)","NEW BRITAIN, CT
+(41.667528, -72.783437)","CT
+(41.575155, -72.738288)"
+12-0353,12/29/2012 0:00,DateofDeath,50,Male,"Hispanic, White",WINDHAM,WINDHAM,,WILLIMANTIC,WINDHAM,Other,Park,Injection,Public Park,,,,Multiple Drug Toxicity,,Y,,,,,,Y,,,,,,,,,,,Accident,"WILLIMANTIC, CT
+(41.711724, -72.211975)","WINDHAM, CT
+(41.699744, -72.157703)","CT
+(41.575155, -72.738288)"
+18-1002,12/23/2018 0:00,DateofDeath,49,Male,White,WATERTOWN,LITCHFIELD,CT,WATERTOWN,LITCHFIELD,Residence,,Took drugs and inhaled aerosolized chemicals,Residence,WATERTOWN,LITCHFIELD,,Acute Difluoroethane and Methadone Intoxication,Chronic cocaine use,,,,,,,,,,Y,,,,,,,Y,Accident,"WATERTOWN, CT
+(41.606284, -73.11839)","WATERTOWN, CT
+(41.606284, -73.11839)","WATERTOWN, CT
+(41.606284, -73.11839)"
+16-0610,9/5/2016 0:00,DateofDeath,30,Male,White,BALTIC,NEW LONDON,CT,BALTIC,,Other,Friend's Home,Substance Abuse,Other,BALTIC,,,Acute Intoxication from the Combined Effects of Heroin and Oxycodone,,Y,,,,Y,,,,,,,,,,,,Y,Accident,"BALTIC, CT
+(41.617221, -72.085031)","BALTIC, CT
+(41.617221, -72.085031)","BALTIC, CT
+(41.617221, -72.085031)"
+14-0522,12/10/2014 0:00,DateofDeath,67,Female,White,LITCHFIELD,,,HARTFORD,HARTFORD,Hospital,,Ingestion,Residence,,,,"Intoxication due to the combined effects of Diazepam, Oxazepam, Temazepam, Carisoprodol, and Tramadol",,,,,,,,,,Y,,,Y,,,,,,Accident,"Hartford, CT
+(41.765775, -72.673356)","LITCHFIELD, CT
+(41.746861, -73.189234)","CT
+(41.575155, -72.738288)"
+18-0747,9/22/2018 0:00,DateofDeath,36,Male,"Hispanic, White",MIDDLETOWN,MIDDLESEX,CT,NEW BRITAIN,HARTFORD,Hospital,,Drug Use,Residential Building,NEW BRITAIN,HARTFORD,,"Acute Intoxication Combined Effects of Olanzapine, Fentanyl, and Acetyl Fentanyl",,,,Y,Y,,,,,,,,,,,,,Y,Accident,"NEW BRITAIN, CT
+(41.667528, -72.783437)","MIDDLETOWN, CT
+(41.544654, -72.651713)","NEW BRITAIN, CT
+(41.667528, -72.783437)"
+12-0128,5/20/2012 0:00,DateofDeath,54,Male,White,RIDGEFIELD,FAIRFIELD,,RIDGEFIELD,FAIRFIELD,Residence,,Used Methanone and Ethanol,Residence,,,,Methadone and Ethanol Toxicities,,,,,,,,Y,,,Y,,,,,,,,Accident,"RIDGEFIELD, CT
+(41.281456, -73.49843)","RIDGEFIELD, CT
+(41.281456, -73.49843)","CT
+(41.575155, -72.738288)"
+16-0753,11/7/2016 0:00,DateofDeath,43,Male,White,EASTON,FAIRFIELD,CT,NEW HAVEN,,Other,Outside,Drug Use,"Other, Other Outdoor Area",NEW HAVEN,,,"Acute Intoxication Combined Effects of Ethanol, Alprazolam, Cocaine, Fentanyl, Oxycodone, and Heroin",,Y,Y,Y,,Y,,Y,,Y,,,,,,,,Y,Accident,"NEW HAVEN, CT
+(41.308252, -72.924161)","EASTON, CT
+(41.252848, -73.297472)","NEW HAVEN, CT
+(41.308252, -72.924161)"
+15-0420,8/13/2015 0:00,DateReported,25,Male,White,DERBY,NEW HAVEN,CT,DERBY,NEW HAVEN,Other,,,Public Park,,,,"Acute Combined Oxycodone, Benzodiazepine, Mirtazapine, Diphenhydramine and Alcohol Toxicities",,,,,,Y,,Y,,Y,,,,,,,,Y,Accident,"DERBY, CT
+(41.322959, -73.089594)","DERBY, CT
+(41.322959, -73.089594)","CT
+(41.575155, -72.738288)"
+14-0340,8/20/2014 0:00,DateofDeath,54,Male,White,EAST HAVEN,,,NEW HAVEN,NEW HAVEN,Hospital,,Injection,Residence,,,,Heroin Intoxication,,Y,,,,,,,,,,,,,,,,,Accident,"New Haven, CT
+(41.308252, -72.924161)","EAST HAVEN, CT
+(41.277971, -72.871954)","CT
+(41.575155, -72.738288)"
+14-0319,8/4/2014 0:00,DateofDeath,54,Female,White,BRIDGEPORT,,,BRIDGEPORT,FAIRFIELD,Residence,,Inhalation,Residence,,,,Heroin and Cocaine Intoxication,,Y,Y,,,,,,,,,,,,,,,,Accident,"BRIDGEPORT, CT
+(41.179195, -73.189476)","BRIDGEPORT, CT
+(41.179195, -73.189476)","CT
+(41.575155, -72.738288)"
+16-0160,3/10/2016 0:00,DateofDeath,23,Male,White,NEW LONDON,NEW LONDON,CT,NEW LONDON,,Other,Dunkin donuts,Substance Abuse,Restaurant,NEW LONDON,,,Acute Intoxication Due To The Combined Effects of Fentanyl and Heroin,,Y,,Y,,,,,,,,,,,,,,Y,Accident,"NEW LONDON, CT
+(41.355167, -72.099561)","NEW LONDON, CT
+(41.355167, -72.099561)","NEW LONDON, CT
+(41.355167, -72.099561)"
+16-0171,3/16/2016 0:00,DateofDeath,52,Male,White,BROOKFIELD,FAIRFIELD,CT,BROOKFIELD,,Residence,,Drug Use,Residence,BROOKFIELD,,,"Acute Intoxication due to the Combined Effects of Ethanol, Lorazepam, Cocaine, Lysergic Acid Diethylamide, Zolpidem, Prochlorperazine, Morphine, and Hydromorphone",,,Y,,,,,Y,,Y,,,,Y,,"lsd, hydromorph",,Y,Accident,"BROOKFIELD, CT
+(41.482447, -73.409561)","BROOKFIELD, CT
+(41.482447, -73.409561)","BROOKFIELD, CT
+(41.482447, -73.409561)"
+15-0415,8/12/2015 0:00,DateReported,54,Male,"Hispanic, White",BRIDGEPORT,FAIRFIELD,CT,SHELTON,FAIRFIELD,Other,,,Other,,,,"Acute Intoxication due to the Combined Effects of Heroin, Cocaine, and Ethanol",,Y,Y,,,,,Y,,,,,,,,,,Y,Accident,"SHELTON, CT
+(41.316843, -73.092968)","BRIDGEPORT, CT
+(41.179195, -73.189476)","CT
+(41.575155, -72.738288)"
+18-0478,6/21/2018 0:00,DateReported,61,Male,White,BRISTOL,HARTFORD,CT,BRISTOL,HARTFORD,Residence,,Substance Abuse,Residence,BRISTOL,HARTFORD,,"Acute Intoxication From the Combined Effects of Fentanyl, Methadone,Hydroxyzine, Olanzapine, and Escitalopram",,,,Y,,,,,,,Y,,,,,,,Y,Accident,"Bristol, CT
+(41.673037, -72.945791)","BRISTOL, CT
+(41.673037, -72.945791)","BRISTOL, CT
+(41.673037, -72.945791)"
+17-0003,1/2/2017 0:00,DateReported,53,Male,White,TORRINGTON,LITCHFIELD,CT,TORRINGTON,LITCHFIELD,Residence,,Substance Abuse,Residence,TORRINGTON,LITCHFIELD,CT,Acute Intoxication due to the Combined Effects of Fentanyl and Heroin,,Y,,Y,,,,,,,,,,,,,,,Accident,"Torrington, CT
+(41.812186, -73.101552)","TORRINGTON, CT
+(41.812186, -73.101552)","TORRINGTON, CT
+(41.812186, -73.101552)"
+18-0008,1/4/2018 0:00,DateReported,42,Male,White,DERBY,NEW HAVEN,CT,DERBY,NEW HAVEN,Residence,,Abused prescription medications,Residence,DERBY,NEW HAVEN,,Acute Morphine and Alprazolam Intoxication,,,,,,,,,,Y,,,,YES,,,,Y,Accident,"Derby, CT
+(41.322959, -73.089594)","DERBY, CT
+(41.322959, -73.089594)","DERBY, CT
+(41.322959, -73.089594)"
+18-0358,5/11/2018 0:00,DateReported,41,Male,White,DANBURY,FAIRFIELD,CT,DANBURY,FAIRFIELD,Residence,,Substance abuse,Residence,DANBURY,FAIRFIELD,,"Acute Intoxication due to the Combined Effects of Fentanyl, Acetyl Fentanyl,Heroin, Cocaine, Amphetamines, and Oxymorphone",,Y,Y,Y,Y,,,,,,,Y,,,,,,Y,Accident,"Danbury, CT
+(41.393666, -73.451539)","DANBURY, CT
+(41.393666, -73.451539)","DANBURY, CT
+(41.393666, -73.451539)"
+17-0290,4/9/2017 0:00,DateReported,34,Male,White,EAST HAMPTON,,CT,HARTFORD,HARTFORD,Hospital,,Substance abuse,Unknown,UNKNOWN,,CT,Acute Fentanyl and Ethanol Intoxication,,,,Y,,,,Y,,,,,,,,,,,Accident,"Hartford, CT
+(41.765775, -72.673356)","EAST HAMPTON, CT
+(41.575581, -72.502526)",
+13-0394,11/8/2013 0:00,DateofDeath,32,Male,White,NORWICH,NEW LONDON,,NORWICH,NEW LONDON,Hospital,,Substance Abuse,Residence,,,,Acute Heroin Intoxication,,Y,,,,,,,,,,,,,,,,,Accident,"Norwich, CT
+(41.524304, -72.075821)","NORWICH, CT
+(41.524304, -72.075821)","CT
+(41.575155, -72.738288)"
+17-0950,12/3/2017 0:00,DateReported,31,Male,Asian Indian,NAUGATUCK,NEW HAVEN,CT,NAUGATUCK,NEW HAVEN,Residence,,Substance Abuse,Residence,NAUGATUCK,NEW HAVEN,CT,Acute Intoxication due to Synthetic Fentanyls including para-Fluorobutyryl Fentanyl and Butyryl Fentanyl,,,,Y,Y,,,,,,,,,,,,,,Accident,"Naugatuck, CT
+(41.491113, -73.056564)","NAUGATUCK, CT
+(41.491113, -73.056564)","NAUGATUCK, CT
+(41.491113, -73.056564)"
+18-0371,5/13/2018 0:00,DateReported,29,Male,White,HARTFORD,HARTFORD,CT,HARTFORD,HARTFORD,Residence,,Drug abuse,Residence,HARTFORD,HARTFORD,,Fentanyl Toxicity,,,,Y,,,,,,,,,,,,,,Y,Accident,"Hartford, CT
+(41.765775, -72.673356)","HARTFORD, CT
+(41.765775, -72.673356)","HARTFORD, CT
+(41.765775, -72.673356)"
+16-0205,3/31/2016 0:00,DateofDeath,57,Male,White,FAIRFIELD,FAIRFIELD,CT,BRIDGEPORT,,Hospital,,Ingestion,"Other, Other Outdoor Area",BRIDGEPORT,,,Acute Morphine (Pharmaceutical) and Alprazolam Intoxication,,,,,,,,,,Y,,,,Y,,,,Y,Accident,"Bridgeport, CT
+(41.179195, -73.189476)","FAIRFIELD, CT
+(41.143322, -73.249812)","BRIDGEPORT, CT
+(41.179195, -73.189476)"
+12-0092,4/7/2012 0:00,DateofDeath,24,Female,White,NEW LONDON,,,NEW LONDON,NEW LONDON,Hospital,,Drug Use,Other,,,,Heroin Toxicity,,Y,,,,,,,,,,,,,,,,,Accident,"New London, CT
+(41.355167, -72.099561)","NEW LONDON, CT
+(41.355167, -72.099561)","CT
+(41.575155, -72.738288)"
+16-0200,3/25/2016 0:00,DateofDeath,26,Male,White,OXFORD,NEW HAVEN,CT,DERBY,,Hospital,,substance abuse,Residence,OXFORD,,,Heroin and ethanol intoxication,,Y,,,,,,Y,,,,,,,,,,Y,Accident,"Derby, CT
+(41.322959, -73.089594)","OXFORD, CT
+(41.434813, -73.117134)","OXFORD, CT
+(41.434813, -73.117134)"
+16-0875,12/15/2016 0:00,DateofDeath,25,Female,White,ELLINGTON,TOLLAND,CT,VERNON,,Hospital,,,,ELLINGTON,,,"Acute Intoxication due to the Combined Effects of Fentanyl, Heroin and Diazepam",,Y,,Y,,,,,,Y,,,,,,,,Y,Accident,"Vernon, CT
+(41.818792, -72.479029)","ELLINGTON, CT
+(41.903847, -72.470262)","ELLINGTON, CT
+(41.903847, -72.470262)"
+15-0702,12/15/2015 0:00,DateReported,55,Male,White,FAIRFIELD,FAIRFIELD,CT,FAIRFIELD,FAIRFIELD,Residence,,,Residence,FAIRFIELD,FAIRFIELD,CT,"Acute Intoxication due to the Combined Effects of Ethanol, Clonazepam, Nortriptyline, and Oxycodone",,,,,,Y,,Y,,Y,,,,,,,,Y,Accident,"FAIRFIELD, CT
+(41.143322, -73.249812)","FAIRFIELD, CT
+(41.143322, -73.249812)","FAIRFIELD, CT
+(41.143322, -73.249812)"
+18-0736,9/19/2018 0:00,DateofDeath,40,Male,White,WATERBURY,NEW HAVEN,CT,WATERBURY,NEW HAVEN,Residence,,Substance abuse,Residence,WATERBURY,NEW HAVEN,,"Acute Intoxication due to the Combined Effects of Fentanyl, Acetyl Fentanyl, Heroin, and Cocaine",,Y,Y,Y,Y,,,,,,,,,,,,,Y,Accident,"WATERBURY, CT
+(41.554261, -73.043069)","WATERBURY, CT
+(41.554261, -73.043069)","WATERBURY, CT
+(41.554261, -73.043069)"
+15-0726,12/31/2015 0:00,DateReported,37,Female,White,EAST HAMPTON,MIDDLESEX,CT,EAST HAMPTON,MIDDLESEX,Residence,,,Residence,EAST HAMPTON,MIDDLESEX,CT,"Acute Intoxication Due To The Combined Effects of Heroin, Cocaine, Alprazolam and Tramadol",,Y,Y,,,,,,,Y,,,Y,,,,,Y,Accident,"EAST HAMPTON, CT
+(41.575581, -72.502526)","EAST HAMPTON, CT
+(41.575581, -72.502526)","EAST HAMPTON, CT
+(41.575581, -72.502526)"
+15-0051,1/31/2015 0:00,DateReported,43,Male,White,WATERBURY,NEW HAVEN,CT,WATERBURY,NEW HAVEN,Residence,,,Residence,,,,Heroin Intoxication,,Y,,,,,,,,,,,,,,,,Y,Accident,"WATERBURY, CT
+(41.554261, -73.043069)","WATERBURY, CT
+(41.554261, -73.043069)","CT
+(41.575155, -72.738288)"
+18-0820,10/17/2018 0:00,DateofDeath,38,Male,White,WEST HARTFORD,HARTFORD,CT,HARTFORD,HARTFORD,Other,,Substance abuse,Apartment,HARTFORD,HARTFORD,,"Acute Intoxication due to the Combined Effects of Fentanyl, Cocaine, Methamphetamine, Clonazepam, and Ethanol",,,Y,Y,,,,Y,,Y,,Y,,,,,,Y,Accident,"HARTFORD, CT
+(41.765775, -72.673356)","WEST HARTFORD, CT
+(41.762008, -72.741807)","HARTFORD, CT
+(41.765775, -72.673356)"
+15-0625,11/13/2015 0:00,DateReported,42,Male,White,PLYMOUTH,LITCHFIELD,CT,HARTFORD,HARTFORD,,,,Residence,PLYMOUTH,LITCHFIELD,CT,Complications of Acute Intoxication due to the Combined Effects of Fentanyl and Cocaine,,,Y,Y,,,,,,,,,,,,,,Y,Accident,"Hartford, CT
+(41.765775, -72.673356)","PLYMOUTH, CT
+(41.671982, -73.052909)","PLYMOUTH, CT
+(41.671982, -73.052909)"
+15-0231,5/14/2015 0:00,DateReported,58,Female,White,SHARON,LITCHFIELD,CT,SHARON,LITCHFIELD,Hospital,,,Residence,SHARON,LITCHFIELD,CT,Acute Fentanyl and Oxycodone Toxicities,,,,Y,,Y,,,,,,,,,,,,Y,Accident,"Sharon, CT
+(41.87943, -73.478873)","SHARON, CT
+(41.87943, -73.478873)","SHARON, CT
+(41.87943, -73.478873)"
+16-0644,9/18/2016 0:00,DateofDeath,42,Male,White,FAIRFIELD,FAIRFIELD,CT,MILFORD,,Other,Father's house,Substance Abuse,Residential Building,MILFORD,,,Acute Intoxication due to the Combined Effects of Ethanol and Oxycodone,,,,,,Y,,Y,,,,,,,,,,Y,Accident,"MILFORD, CT
+(41.224276, -73.057564)","FAIRFIELD, CT
+(41.143322, -73.249812)","MILFORD, CT
+(41.224276, -73.057564)"
+15-0665,11/24/2015 0:00,DateReported,51,Male,White,STAMFORD,FAIRFIELD,CT,STAMFORD,FAIRFIELD,Residence,,,Residence,STAMFORD,FAIRFIELD,CT,Acute Intoxication from the Combined Effects of Cocaine and Fentanyl,,,Y,Y,,,,,,,,,,,,,,Y,Accident,"STAMFORD, CT
+(41.051924, -73.539475)","STAMFORD, CT
+(41.051924, -73.539475)","STAMFORD, CT
+(41.051924, -73.539475)"
+18-0170,3/7/2018 0:00,DateReported,59,Male,White,MONROE,FAIRFIELD,CT,MONROE,FAIRFIELD,Residence,,Substance abuse,Residence,MONROE,FAIRFIELD,,"ACUTE FENTANYL, METHOXYACETYLFENTANYL AND HEROIN WITH ALPRAZOLAM TOXICITY",,Y,,Y,Y,,,,,Y,,,,,,,,Y,Accident,"Monroe, CT
+(41.331612, -73.206797)","MONROE, CT
+(41.331612, -73.206797)","MONROE, CT
+(41.331612, -73.206797)"
+17-0611,7/18/2017 0:00,DateReported,36,Female,White,WINCHESTER,LITCHFIELD,CT,WINCHESTER,LITCHFIELD,Residence,,Drug Use,Residence,WINCHESTER,LITCHFIELD,CT,"Acute Intoxication Combined Effects of Clonazepam, Fentanyl, and Heroin",,Y,,Y,,,,,,Y,,,,,,,,,Accident,"Winchester, CT
+(41.901973, -73.133851)","WINCHESTER, CT
+(41.901973, -73.133851)","WINCHESTER, CT
+(41.901973, -73.133851)"
+17-1004,12/24/2017 0:00,DateReported,50,Male,White,CHAPLIN,WINDHAM,CT,HARTFORD,HARTFORD,Hospital,,Drug Use,Residence,CHAPLIN,HARTFORD,CT,"Acute Intoxication Combined Effects of Fentanyl, Cocaine, Sertraline, and Heroin",,Y,Y,Y,,,,,,,,,,,,,,,Accident,"Hartford, CT
+(41.765775, -72.673356)","CHAPLIN, CT
+(41.797715, -72.129312)","CHAPLIN, CT
+(41.797715, -72.129312)"
+15-0363,7/16/2015 0:00,DateReported,59,Male,White,TORRINGTON,LITCHFIELD,CT,TORRINGTON,LITCHFIELD,Residence,,,Residence,,,,"Acute Intoxication from the Combined Effects of Cocaine, Heroin, and Alcohol",,Y,Y,,,,,Y,,,,,,,,,,Y,Accident,"TORRINGTON, CT
+(41.812186, -73.101552)","TORRINGTON, CT
+(41.812186, -73.101552)","CT
+(41.575155, -72.738288)"
+17-0344,4/29/2017 0:00,DateReported,41,Male,"Hispanic, White",HARTFORD,HARTFORD,CT,HARTFORD,HARTFORD,Other,Halfway house,Drug Use,Halfway House,HARTFORD,HARTFORD,CT,Acute Fentanyl Intoxication,,,,Y,,,,,,,,,,,,,,,Accident,"Hartford, CT
+(41.765775, -72.673356)","HARTFORD, CT
+(41.765775, -72.673356)","HARTFORD, CT
+(41.765775, -72.673356)"
+15-0589,10/28/2015 0:00,DateReported,25,Female,Black,WATERBURY,NEW HAVEN,CT,WATERBURY,NEW HAVEN,Other,,,Unknown,,,,Acute Fentanyl and Cocaine Intoxication,,,Y,Y,,,,,,,,,,,,,,Y,Accident,"WATERBURY, CT
+(41.554261, -73.043069)","WATERBURY, CT
+(41.554261, -73.043069)","CT
+(41.575155, -72.738288)"
+16-0127,2/26/2016 0:00,DateofDeath,46,Male,White,BRANFORD,NEW HAVEN,CT,BRANFORD,,Residence,,Substance Abuse,Residence,BRANFORD,,,"Acute Intoxication Due to the Combined Effects of Alprazolam, Diphenhydramine, and Methadone",,,,,,,,,,Y,Y,,,,,,,Y,Accident,"BRANFORD, CT
+(41.279802, -72.81404)","BRANFORD, CT
+(41.279802, -72.81404)","BRANFORD, CT
+(41.279802, -72.81404)"
+17-0874,11/6/2017 0:00,DateReported,26,Male,White,MERIDEN,NEW HAVEN,CT,MANCHESTER,HARTFORD,Other,Friend's House,Substance Abuse,House,MANCHESTER,HARTFORD,CT,"ACUTE COMBINED FENTANYL, ACETYL FENTANYL, COCAINE AND CITALOPRAM TOXICITY",,,Y,Y,Y,,,,,,,,,,,,,,Accident,"Manchester, CT
+(41.770668, -72.520868)","MERIDEN, CT
+(41.537589, -72.8011)","MANCHESTER, CT
+(41.770668, -72.520868)"
+18-0075,2/3/2018 0:00,DateReported,47,Male,White,WOLCOTT,NEW HAVEN,CT,WOLCOTT,NEW HAVEN,Residence,,Took ethanol and prescription medication,Residence,WOLCOTT,NEW HAVEN,,Ethanol and Carisoprodol Toxicity,,,,,,,,Y,,,,,,,,,,,Accident,"Wolcott, CT
+(41.601588, -72.986414)","WOLCOTT, CT
+(41.601588, -72.986414)","WOLCOTT, CT
+(41.601588, -72.986414)"
+13-0111,3/27/2013 0:00,DateofDeath,37,Male,White,DANIELSON,WINDHAM,,HARTFORD,HARTFORD,Hospital,,Ingestion,Residence,,,,Combined Drug Toxicity with Survival,,,,,,,,,,,,,,,,opiate,,,,"Hartford, CT
+(41.765775, -72.673356)","DANIELSON, CT
+(41.803361, -71.885766)","CT
+(41.575155, -72.738288)"
+18-0810,10/13/2018 0:00,DateofDeath,41,Male,White,WEST SUFFIELD,HARTFORD,CT,WEST SUFFIELD,HARTFORD,Residence,,Drug abuse,Residence,WEST SUFFIELD,HARTFORD,,Heroin and Fentanyl Toxicity,,Y,,Y,,,,,,,,,,,,,,Y,Accident,"WEST SUFFIELD, CT
+(41.988602, -72.692497)","WEST SUFFIELD, CT
+(41.988602, -72.692497)","WEST SUFFIELD, CT
+(41.988602, -72.692497)"
+17-0745,9/11/2017 0:00,DateReported,30,Female,White,NEWTOWN,FAIRFIELD,CT,DANBURY,FAIRFIELD,Hospital,,Drug Abuse,Residence,NEWTOWN,FAIRFIELD,CT,"Multidrug Toxicity Including Fentanyl, para-Fluorobutyryl Fentanyl, 4-ANPP, Morphine, and Methadone, RECENT COCAINE USE",,Y,Y,Y,Y,,,,,,Y,,,,,,,,Accident,"Danbury, CT
+(41.393666, -73.451539)","NEWTOWN, CT
+(41.413516, -73.308842)","NEWTOWN, CT
+(41.413516, -73.308842)"
+15-0191,4/19/2015 0:00,DateReported,54,Female,White,FARMINGTON,HARTFORD,CT,FARMINGTON,HARTFORD,Residence,,,Residence,,,,"Intoxication due to the Combined Effects of Citalopram/Escitalopram, Olanzapine, Topiramine, and Buprenorphine",,,,,,,,,,Y,,,,,,BUPREN,,Y,Accident,"FARMINGTON, CT
+(41.72651, -72.824947)","FARMINGTON, CT
+(41.72651, -72.824947)","CT
+(41.575155, -72.738288)"
+14-0256,6/14/2014 0:00,DateofDeath,34,Male,White,NAUGATUCK,,,NAUGATUCK,NEW HAVEN,Residence,,Ingestion,Residence,,,,Methadone Intoxication,,,,,,,,,,,Y,,,,,,,,Accident,"NAUGATUCK, CT
+(41.491113, -73.056564)","NAUGATUCK, CT
+(41.491113, -73.056564)","CT
+(41.575155, -72.738288)"
+12-0335,12/14/2012 0:00,DateofDeath,32,Male,White,STRATFORD,FAIRFIELD,,STRATFORD,FAIRFIELD,Residence,,Ingestion,Residence,,,,Multiple Drug Toxicity,,,,,,Y,Y,,,Y,Y,,,,,,,,Accident,"STRATFORD, CT
+(41.200888, -73.131323)","STRATFORD, CT
+(41.200888, -73.131323)","CT
+(41.575155, -72.738288)"
+17-0615,7/20/2017 0:00,DateReported,37,Male,White,,,,DANBURY,FAIRFIELD,Hospital,,SUBSTANCE ABUSE,Other,DANBURY,FAIRFIELD,CT,"ACUTE FENTANYL TOXICITY, SERTRALINE, QUETIAPINE, CLONAZEPAM USE",,,,Y,,,,,,Y,,,,,,,,,Accident,"Danbury, CT
+(41.393666, -73.451539)","CT
+(41.575155, -72.738288)","DANBURY, CT
+(41.393666, -73.451539)"
+18-0641,8/12/2018 0:00,DateofDeath,53,Male,White,NORTH BRANFORD,NEW HAVEN,CT,NORTH BRANFORD,NEW HAVEN,Residence,,Drug Use,Residence,NORTH BRANFORD,NEW HAVEN,,Acute Ketamine Intoxication,,,,,,,,,,,,,,,,,,,Accident,"NORTH BRANFORD, CT
+(41.324919, -72.770281)","NORTH BRANFORD, CT
+(41.324919, -72.770281)","NORTH BRANFORD, CT
+(41.324919, -72.770281)"
+14-0447,10/25/2014 0:00,DateofDeath,30,Female,White,EAST HARTFORD,,,EAST HARTFORD,HARTFORD,Residence,,Fentanyl Use,Residence,,,,"Acute Fentanyl Toxicity Associated with Lorazepam, Doxylamine and Diphenhydramine Use",,,,Y,,,,,,Y,,,,,,,,,Accident,"EAST HARTFORD, CT
+(41.769319, -72.643785)","EAST HARTFORD, CT
+(41.769319, -72.643785)","CT
+(41.575155, -72.738288)"
+17-0967,12/9/2017 0:00,DateReported,38,Female,White,WARREN,LITCHFIELD,CT,NEW MILFORD,LITCHFIELD,Hospital,,Substance Abuse,Residence,WARREN,LITCHFIELD,CT,"Acute Intoxication due to the Combined Effects of Amitriptyline, Carisoprodol, Diphenhydramine, Hydrocodone, and Temazepam",,,,,,,,,Y,Y,,,,,,,,,Accident,"New Milford, CT
+(41.576633, -73.408713)","WARREN, CT
+(41.744496, -73.348848)","WARREN, CT
+(41.744496, -73.348848)"
+15-0324,7/2/2015 0:00,DateReported,26,Male,"Asian, Other",NEW MILFORD,LITCHFIELD,CT,NEW MILFORD,LITCHFIELD,Residence,,,Residence,NEW MILFORD,LITCHFIELD,CT,"Acute intoxication from the combined effects of heroin, Fentanyl and Oxycodone",,Y,,Y,,Y,,,,,,,,,,,,Y,Accident,"NEW MILFORD, CT
+(41.576633, -73.408713)","NEW MILFORD, CT
+(41.576633, -73.408713)","NEW MILFORD, CT
+(41.576633, -73.408713)"
+17-0379,5/9/2017 0:00,DateReported,36,Male,Black,,,,BRIDGEPORT,FAIRFIELD,Other,,Substance Abuse,Residential Building,BRIDGEPORT,FAIRFIELD,CT,"Acute Intoxication due to the Combined Effects of Fentanyl, Heroin and Cocaine",,Y,Y,Y,,,,,,,,,,,,,,,Accident,"Bridgeport, CT
+(41.179195, -73.189476)","CT
+(41.575155, -72.738288)","BRIDGEPORT, CT
+(41.179195, -73.189476)"
+17-0115,2/8/2017 0:00,DateReported,40,Male,Black,BRIDGEPORT,FAIRFIELD,CT,NEW HAVEN,NEW HAVEN,Other,Vacant Apartment,Drug Use,Apartment,NEW HAVEN,NEW HAVEN,CT,Combined Effects of Clonazepam and Fentanyl,,,,Y,,,,,,Y,,,,,,,,,Accident,"New Haven, CT
+(41.308252, -72.924161)","BRIDGEPORT, CT
+(41.179195, -73.189476)","NEW HAVEN, CT
+(41.308252, -72.924161)"
+16-0276,4/25/2016 0:00,DateofDeath,48,Male,White,MONROE,FAIRFIELD,CT,MONROE,,Residence,,Substance Abuse,Residence,MONROE,,,Acute Fentanyl Intoxication,,,,Y,,,,,,,,,,,,,,Y,Accident,"MONROE, CT
+(41.331612, -73.206797)","MONROE, CT
+(41.331612, -73.206797)","MONROE, CT
+(41.331612, -73.206797)"
+16-0742,11/2/2016 0:00,DateofDeath,23,Male,White,STONINGTON,NEW LONDON,CT,STONINGTON,,Residence,,Substance Abuse,Residence,STONINGTON,,,"Acute Intoxication From the Combined Effects of Fentanyl, Morphine, Hydromorphone, Lorazepam, 7-Amino Clonazepam, and Promethazine",,,,Y,,,,,,Y,,,,,,HYDROMORPH,Y,Y,Accident,"STONINGTON, CT
+(41.337685, -71.907182)","STONINGTON, CT
+(41.337685, -71.907182)","STONINGTON, CT
+(41.337685, -71.907182)"
+14-0388,9/25/2014 0:00,DateofDeath,64,Male,White,PRESTON,,,PRESTON,NEW LONDON,Residence,,Ingestion,Residence,,,,"Intoxication due to the combined effects of Ethanol, Olanzapine, Venlafaxine, O-Desmethylvenlafaxine, and Trazodone",Chronic Alcoholism,,,,,,,Y,,Y,,,,,,OTHERS,,,Accident,"PRESTON, CT
+(41.530948, -71.97251)","PRESTON, CT
+(41.530948, -71.97251)","CT
+(41.575155, -72.738288)"
+13-0480,12/25/2013 0:00,DateofDeath,26,Female,White,GROTON,NEW LONDON,,GROTON,NEW LONDON,Residence,,Substance Abuse,Residence,,,,Acute Heroin Intoxication,,Y,,,,,,,,,,,,,,,,,Accident,"GROTON, CT
+(41.343693, -72.07877)","GROTON, CT
+(41.343693, -72.07877)","CT
+(41.575155, -72.738288)"
+18-0089,2/7/2018 0:00,DateReported,38,Male,Black,,,,WATERBURY,NEW HAVEN,Hospital,,Substance abuse,Unknown,,,,Acute Cocaine and Fentanyl intoxication,,,Y,Y,,,,,,,,,,,,,,Y,Accident,"Waterbury, CT
+(41.554261, -73.043069)","CT
+(41.575155, -72.738288)","CT
+(41.575155, -72.738288)"
+14-0060,2/8/2014 0:00,DateofDeath,43,Female,White,PLANTSVILLE,,,SOUTHINGTON,,Hospital,,Injection,Residence,,,,Heroin and Cocaine Intoxication,,Y,Y,,,,,,,,,,,,,,,,Accident,"Southington, CT
+(41.600428, -72.878105)","PLANTSVILLE, CT
+(41.583599, -72.892799)","CT
+(41.575155, -72.738288)"
+16-0787,11/18/2016 0:00,DateofDeath,37,Male,White,STAMFORD,FAIRFIELD,CT,NEW HAVEN,,Other,Abandoned Building,Substance Abuse,Other,NEW HAVEN,,,"Acute Intoxication from the Combined Effects of Fentanyl, Furanyl Fentanyl, Alcohol, and Bupropion",,,,Y,,,,Y,,,,,,,,,,Y,Accident,"NEW HAVEN, CT
+(41.308252, -72.924161)","STAMFORD, CT
+(41.051924, -73.539475)","NEW HAVEN, CT
+(41.308252, -72.924161)"
+18-0197,3/16/2018 0:00,DateReported,57,Male,White,SOUTH WINDSOR,HARTFORD,CT,SOUTH WINDSOR,HARTFORD,Residence,,Substance abuse,Residence,SOUTH WINDSOR,HARTFORD,,Acute Fentanyl and Cocaine Intoxication,,,Y,Y,,,,,,,,,,,,,,Y,Accident,"South Windsor, CT
+(41.826827, -72.553262)","SOUTH WINDSOR, CT
+(41.826827, -72.553262)","SOUTH WINDSOR, CT
+(41.826827, -72.553262)"
+17-0425,5/24/2017 0:00,DateReported,52,Male,White,JEWETT CITY,NEW LONDON,CT,JEWETT CITY,NEW LONDON,Residence,,SUBSTANCE ABUSE,Residence,JEWETT CITY,NEW LONDON,CT,ACUTE FENTANYL AND HEROIN INTOXICATION,,Y,,Y,,,,,,,,,,,,,,,Accident,"Jewett City, CT
+(41.606767, -71.98126)","JEWETT CITY, CT
+(41.606767, -71.98126)","JEWETT CITY, CT
+(41.606767, -71.98126)"
+17-0646,8/4/2017 0:00,DateReported,51,Male,"Hispanic, White",WATERBURY,NEW HAVEN,CT,WATERBURY,NEW HAVEN,Hospital,,Substance Abuse,Residence,WATERBURY,NEW HAVEN,CT,Acute Intoxication due to the Combined Effects of Cocaine and Heroin,,Y,Y,,,,,,,,,,,,,,,,Accident,"Waterbury, CT
+(41.554261, -73.043069)","WATERBURY, CT
+(41.554261, -73.043069)","WATERBURY, CT
+(41.554261, -73.043069)"
+12-0322,12/3/2012 0:00,DateofDeath,60,Male,White,EAST WINDSOR,HARTFORD,,EAST WINDSOR,HARTFORD,Residence,,Ingestion,Residence,,,,Multiple Drug Toxicity,,Y,,,,Y,Y,,,Y,,,,,,,,,Accident,"EAST WINDSOR, CT
+(41.899986, -72.58032)","EAST WINDSOR, CT
+(41.899986, -72.58032)","CT
+(41.575155, -72.738288)"
+13-0262,8/5/2013 0:00,DateofDeath,43,Male,White,NORWICH,NEW LONDON,,NORWICH,NEW LONDON,Residence,,Substance Abuse,Residence,,,,Acute Heroin Intoxication,,Y,,,,,,,,,,,,,,,,,Accident,"NORWICH, CT
+(41.524304, -72.075821)","NORWICH, CT
+(41.524304, -72.075821)","CT
+(41.575155, -72.738288)"
+17-0925,11/24/2017 0:00,DateReported,47,Male,White,WEST HAVEN,NEW HAVEN,CT,NEW HAVEN,NEW HAVEN,Hospital,,Substance Abuse,Residence,WEST HAVEN,NEW HAVEN,CT,"Acute Intoxication due to the Combined Effects of Difluoroethane, Diphenhydramine, and Methadone",,,,,,,,,,,Y,,,,,,,,Accident,"New Haven, CT
+(41.308252, -72.924161)","WEST HAVEN, CT
+(41.272336, -72.949817)","WEST HAVEN, CT
+(41.272336, -72.949817)"
+14-0183,4/27/2014 0:00,DateofDeath,52,Male,White,NEW LONDON,,,NEW LONDON,NEW LONDON,Hospital,,Substance Abuse,Unknown,,,,Acute Heroin Intoxication,,Y,,,,,,,,,,,,,,,,,Accident,"New London, CT
+(41.355167, -72.099561)","NEW LONDON, CT
+(41.355167, -72.099561)","CT
+(41.575155, -72.738288)"
+12-0238,9/9/2012 0:00,DateofDeath,44,Male,Black,BRIDGEPORT,FAIRFIELD,,BRIDGEPORT,FAIRFIELD,Other,Sunnyside Inn,Used Opiates and Cocaine,Hotel or Motel,,,,"Heroin, Cocaine and Methadone Toxicities",Cardiomegaly,Y,Y,,,,,,,,Y,,,,,,,,Accident,"BRIDGEPORT, CT
+(41.179195, -73.189476)","BRIDGEPORT, CT
+(41.179195, -73.189476)","CT
+(41.575155, -72.738288)"
+13-0396,11/9/2013 0:00,DateofDeath,36,Female,White,ENFIELD,HARTFORD,,HARTFORD,HARTFORD,Residence,Basement,Acute Heroin Toxicity,Other,,,,Acute Heroin Toxicity,,Y,,,,,,,,,,,,,,,,,Accident,"HARTFORD, CT
+(41.765775, -72.673356)","ENFIELD, CT
+(41.976501, -72.591985)","CT
+(41.575155, -72.738288)"
+16-0327,5/14/2016 0:00,DateofDeath,26,Male,White,OLD SAYBROOK,MIDDLESEX,CT,OLD SAYBROOK,,Residence,,substance abuse,Residence,OLD SAYBROOK,,,"Acute Heroin and Fentanyl Toxicities Associated with Diazepam, Oxazepam, Temazepam and Alprazolam Use",,Y,,Y,,,,,,Y,,,,,,,,Y,Accident,"OLD SAYBROOK, CT
+(41.295121, -72.382292)","OLD SAYBROOK, CT
+(41.295121, -72.382292)","OLD SAYBROOK, CT
+(41.295121, -72.382292)"
+17-0428,5/26/2017 0:00,DateReported,42,Male,White,MERIDEN,NEW HAVEN,CT,MERIDEN,NEW HAVEN,Residence,,Substance Abuse,Residence,MERIDEN,NEW HAVEN,CT,"Ethanol, Fentanyl, and Heroin",,Y,,Y,,,,Y,,,,,,,,,,,Accident,"Meriden, CT
+(41.537589, -72.8011)","MERIDEN, CT
+(41.537589, -72.8011)","MERIDEN, CT
+(41.537589, -72.8011)"
+15-0494,9/22/2015 0:00,DateReported,30,Male,White,DANBURY,FAIRFIELD,CT,DANBURY,FAIRFIELD,Residence,,,Residence,DANBURY,FAIRFIELD,CT,"Acute intoxication due to the combined effects of Acetyl Fentanyl, ethanol and heroin",,Y,,Y,,,,Y,,,,,,,,,,Y,Accident,"DANBURY, CT
+(41.393666, -73.451539)","DANBURY, CT
+(41.393666, -73.451539)","DANBURY, CT
+(41.393666, -73.451539)"
+14-0043,1/30/2014 0:00,DateofDeath,30,Male,"Hispanic, White",BROAD BROOK,,,BROAD BROOK,,Residence,,Inhalation,Residence,,,,Heroin Intoxication,,Y,,,,,,,,,,,,,,,,,Accident,"BROAD BROOK, CT
+(41.912428, -72.545409)","BROAD BROOK, CT
+(41.912428, -72.545409)","CT
+(41.575155, -72.738288)"
+15-0436,8/23/2015 0:00,DateReported,33,Female,White,MANCHESTER,HARTFORD,CT,MANCHESTER,HARTFORD,Residence,,,Residence,,,,"Acute Intoxication due to the Combined Effects of Clonazepam, Citalopram/Escitalopram, Trazadone, Perphenazine, Hydroxyzine, and heroin",,Y,,,,,,,,,,,,,,,,Y,Accident,"MANCHESTER, CT
+(41.770668, -72.520868)","MANCHESTER, CT
+(41.770668, -72.520868)","CT
+(41.575155, -72.738288)"
+17-0531,6/28/2017 0:00,DateReported,67,Male,White,DERBY,NEW HAVEN,CT,DERBY,NEW HAVEN,Residence,,Substance abuse,Residence,DERBY,NEW HAVEN,CT,Acute Heroin and Alprazolam Intoxication,,Y,,,,,,,,Y,,,,,,,,,Accident,"Derby, CT
+(41.322959, -73.089594)","DERBY, CT
+(41.322959, -73.089594)","DERBY, CT
+(41.322959, -73.089594)"
+18-0764,9/29/2018 0:00,DateofDeath,30,Female,White,PORTLAND,MIDDLESEX,CT,PORTLAND,MIDDLESEX,Residence,,Drug abuse,Residence,PORTLAND,MIDDLESEX,,"Multidrug Toxicity Including Fentanyl, Morphine, and Alprazolam",,Y,,Y,,,,,,Y,,,,,,,,Y,Accident,"PORTLAND, CT
+(41.581345, -72.634112)","PORTLAND, CT
+(41.581345, -72.634112)","PORTLAND, CT
+(41.581345, -72.634112)"
+14-0466,11/10/2014 0:00,DateofDeath,33,Male,White,NEW HAVEN,,,HARTFORD,HARTFORD,Other,Wooded Area,Substance abuse,"Other, Other Outdoor Area",,,,Acute heroin intoxication,,Y,,,,,,,,,,,,,,,,,Accident,"HARTFORD, CT
+(41.765775, -72.673356)","NEW HAVEN, CT
+(41.308252, -72.924161)","CT
+(41.575155, -72.738288)"
+17-0809,10/9/2017 0:00,DateReported,23,Male,White,WATERBURY,NEW HAVEN,CT,WATERBURY,NEW HAVEN,Residence,,Drug Use,Residence,WATERBURY,NEW HAVEN,CT,"Acute Intoxication Combined Effects of Cocaine, Fentanyl, and Acetyl Fentanyl",,,Y,Y,Y,,,,,,,,,,,,,,Accident,"Waterbury, CT
+(41.554261, -73.043069)","WATERBURY, CT
+(41.554261, -73.043069)","WATERBURY, CT
+(41.554261, -73.043069)"
+17-0776,9/26/2017 0:00,DateReported,31,Male,White,WEST HAVEN,NEW HAVEN,CT,NEW HAVEN,NEW HAVEN,Hospital,,Substance Abuse,Residence,WEST HAVEN,NEW HAVEN,CT,Acute Intoxication From the Combined Effects of Fentanyl and Levetiracetam,,,,Y,,,,,,,,,,,,,,,Accident,"New Haven, CT
+(41.308252, -72.924161)","WEST HAVEN, CT
+(41.272336, -72.949817)","WEST HAVEN, CT
+(41.272336, -72.949817)"
+16-0653,9/22/2016 0:00,DateofDeath,44,Male,White,HEBRON,TOLLAND,CT,HEBRON,,Residence,,SUBSTANCE ABUSE,Residence,HEBRON,,,"ACUTE HEROIN, FENTANYL AND COCAINE TOXICITIES",,Y,Y,Y,,,,,,,,,,,,,,Y,Accident,"HEBRON, CT
+(41.658069, -72.366324)","HEBRON, CT
+(41.658069, -72.366324)","HEBRON, CT
+(41.658069, -72.366324)"
+16-0460,7/5/2016 0:00,DateofDeath,54,Male,White,GROTON,NEW LONDON,CT,GROTON,,Residence,,Substance Abuse,Residence,GROTON,,,Acute Heroin and Ethanol Intoxication,,Y,,,,,,Y,,,,,,,,,,Y,Accident,"GROTON, CT
+(41.343693, -72.07877)","GROTON, CT
+(41.343693, -72.07877)","GROTON, CT
+(41.343693, -72.07877)"
+13-0150,5/1/2013 0:00,DateofDeath,48,Male,White,DARIEN,FAIRFIELD,,DARIEN,FAIRFIELD,Residence,,Ingestion,Residence,,,,Hydrocodone and Methadone Intoxication,,,,,,,,,Y,,Y,,,,,,,,Accident,"DARIEN, CT
+(41.080002, -73.467371)","DARIEN, CT
+(41.080002, -73.467371)","CT
+(41.575155, -72.738288)"
+15-0446,8/31/2015 0:00,DateReported,44,Male,"Hispanic, White",BRIDGEPORT,FAIRFIELD,CT,BRIDGEPORT,FAIRFIELD,Hospital,,,Residence,,,,Acute ethanol and heroin intox,,Y,,,,,,Y,,,,,,,,,,Y,Accident,"Bridgeport, CT
+(41.179195, -73.189476)","BRIDGEPORT, CT
+(41.179195, -73.189476)","CT
+(41.575155, -72.738288)"
+16-0361,5/29/2016 0:00,DateofDeath,40,Female,Black,BRANFORD,NEW HAVEN,CT,BRANFORD,,Residence,,Substance Abuse,Residence,BRANFORD,,,The Combined Effects of Fentanyl and Oxycodone,,,,Y,,Y,,,,,,,,,,,,Y,Accident,"BRANFORD, CT
+(41.279802, -72.81404)","BRANFORD, CT
+(41.279802, -72.81404)","BRANFORD, CT
+(41.279802, -72.81404)"
+16-0291,5/2/2016 0:00,DateofDeath,37,Male,White,MERIDEN,NEW HAVEN,CT,MERIDEN,,Residence,,substance abuse,Unknown,UNKNOWN,,,Acute Heroin Intoxication,,Y,,,,,,,,,,,,,,,,Y,Accident,"MERIDEN, CT
+(41.537589, -72.8011)","MERIDEN, CT
+(41.537589, -72.8011)",
+16-0344,5/23/2016 0:00,DateofDeath,24,Male,White,BRISTOL,HARTFORD,CT,BRISTOL,,Residence,,substance abuse,Residence,BRISTOL,,,The Combined Effects of Heroin and Alcohol,,Y,,,,,,Y,,,,,,,,,,Y,Accident,"BRISTOL, CT
+(41.673037, -72.945791)","BRISTOL, CT
+(41.673037, -72.945791)","BRISTOL, CT
+(41.673037, -72.945791)"
+17-0914,11/18/2017 0:00,DateReported,49,Male,"Hispanic, White",NEW BRITAIN,HARTFORD,CT,NEW BRITAIN,HARTFORD,Residence,,Drug abuse,Residence,NEW BRITAIN,HARTFORD,CT,"Multidrug Toxicity Including Fentanyl, Acetyl Fentanyl, Ethanol, and Morphine",,Y,,Y,Y,,,Y,,,,,,,,,,,Accident,"New Britain, CT
+(41.667528, -72.783437)","NEW BRITAIN, CT
+(41.667528, -72.783437)","NEW BRITAIN, CT
+(41.667528, -72.783437)"
+14-0233,6/1/2014 0:00,DateofDeath,43,Male,White,MANCHESTER,,,MANCHESTER,HARTFORD,Residence,,Used Medications,Residence,,,,Combined Acute Buproprion and Olanzapine Toxicities,,,,,,,,,,Y,,,,,,,,,Accident,"MANCHESTER, CT
+(41.770668, -72.520868)","MANCHESTER, CT
+(41.770668, -72.520868)","CT
+(41.575155, -72.738288)"
+14-0114,3/8/2014 0:00,DateofDeath,50,Male,White,HARTFORD,,,HARTFORD,,Residence,Friend's Apartment,Injection,Other,,,,"Cocaine, Heroin and Phencyclidine Intoxication",,Y,Y,,,,,,,,,,,,,,,,Accident,"Hartford, CT
+(41.765775, -72.673356)","HARTFORD, CT
+(41.765775, -72.673356)","CT
+(41.575155, -72.738288)"
+15-0576,10/23/2015 0:00,DateReported,36,Male,White,EAST HARTFORD,HARTFORD,CT,EAST HARTFORD,HARTFORD,Residence,,,Residence,EAST HARTFORD,HARTFORD,CT,"Acute Intoxication due to the Combined Effects of Heroin, Phencyclidine, Olanzapine and Citalopram",,Y,,,,,,,,Y,,,,,,pcp,,Y,Accident,"EAST HARTFORD, CT
+(41.769319, -72.643785)","EAST HARTFORD, CT
+(41.769319, -72.643785)","EAST HARTFORD, CT
+(41.769319, -72.643785)"
+13-0100,3/20/2013 0:00,DateofDeath,20,Male,White,OSHKOSH,WINNEBAGO,,BRIDGEPORT,FAIRFIELD,Hospital,,Used Fentanyl,Other,,,,Acute Fentanyl Intoxication,,,,Y,,,,,,,,,,,,,,,Accident,"Bridgeport, CT
+(41.179195, -73.189476)",,"CT
+(41.575155, -72.738288)"
+16-0423,6/21/2016 0:00,DateofDeath,46,Female,Black,LEDYARD,NEW LONDON,CT,LEDYARD,,Other,Cousin's residence,Substance Abuse,Residential Building,LEDYARD,,,Acute Fentanyl and Cocaine Intoxication While Using Diazepam,,,Y,Y,,,,,,Y,,,,,,,,Y,Accident,"LEDYARD, CT
+(41.445618, -72.018188)","LEDYARD, CT
+(41.445618, -72.018188)","LEDYARD, CT
+(41.445618, -72.018188)"
+17-0397,5/16/2017 0:00,DateReported,50,Male,White,EAST HARTFORD,HARTFORD,CT,WATERBURY,NEW HAVEN,Hospital,,Drug Use,Shed,WATERBURY,NEW HAVEN,CT,"Combined Effects of Cocaine, Fentanyl, and Heroin",,Y,Y,Y,,,,,,,,,,,,,,,Accident,"Waterbury, CT
+(41.554261, -73.043069)","EAST HARTFORD, CT
+(41.769319, -72.643785)","WATERBURY, CT
+(41.554261, -73.043069)"
+17-0960,12/6/2017 0:00,DateReported,33,Male,White,NORTH HAVEN,NEW HAVEN,CT,NEW HAVEN,NEW HAVEN,Hospital,,Substance abuse,Residence,NORTH HAVEN,NEW HAVEN,CT,"ACUTE COMBINED FENTANYL, PARA-FLUOROBUTYRYL FENTANYL/FIBF, ACETYL FENTANYL AND HEROIN",,Y,,Y,Y,,,,,,,,,,,,,,Accident,"New Haven, CT
+(41.308252, -72.924161)","NORTH HAVEN, CT
+(41.38864, -72.860826)","NORTH HAVEN, CT
+(41.38864, -72.860826)"
+12-0224,8/28/2012 0:00,DateofDeath,58,Male,White,TRUMBULL,FAIRFIELD,,TRUMBULL,FAIRFIELD,Residence,,Ingestion,Residence,,,,Multiple drug toxicity,Coronary Artery Disease,,,,,Y,,,,,,,,,,,,,Accident,"TRUMBULL, CT
+(41.257379, -73.219533)","TRUMBULL, CT
+(41.257379, -73.219533)","CT
+(41.575155, -72.738288)"
+16-0407,6/16/2016 0:00,DateofDeath,49,Male,White,STRATFORD,FAIRFIELD,CT,STRATFORD,,Residence,,substance abuse,Residence,STRATFORD,,,"The Combined Effects of Heroin, Fentanyl, and Ethanol",,Y,,Y,,,,Y,,,,,,,,,,Y,Accident,"STRATFORD, CT
+(41.200888, -73.131323)","STRATFORD, CT
+(41.200888, -73.131323)","STRATFORD, CT
+(41.200888, -73.131323)"
+14-0092,2/26/2014 0:00,DateofDeath,36,Male,White,NEW HAVEN,,,NEW HAVEN,,Hospital,,Ingestion,Unknown,,,,"Combined Drug Toxicity, Methadone, Ethanol and Lorazepam",,,,,,,,Y,,Y,Y,,,,,,,,Accident,"New Haven, CT
+(41.308252, -72.924161)","NEW HAVEN, CT
+(41.308252, -72.924161)","CT
+(41.575155, -72.738288)"
+12-0026,1/29/2012 0:00,DateofDeath,35,Male,White,EAST HAVEN,NEW HAVEN,,NEW HAVEN,NEW HAVEN,Hospital,,Injection,Unknown,,,,Heroin Toxicity,,Y,,,,,,,,,,,,,,,,,Accident,"New Haven, CT
+(41.308252, -72.924161)","EAST HAVEN, CT
+(41.277971, -72.871954)","CT
+(41.575155, -72.738288)"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
